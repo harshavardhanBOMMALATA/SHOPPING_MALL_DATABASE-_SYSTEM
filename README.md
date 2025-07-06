@@ -200,16 +200,16 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 3. **Run the Queries**: Use the SQL queries provided in the `analysis_queries.sql` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional business questions.
 
-## Author - Zero Analyst
+## Author - HARSHAVARDHAN BOMMALATA
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
-### Stay Updated and Join the Community
-
-For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
+##STAY CONNECTED
 
 -**LinkedIn**:[Connect with me professionally](https://www.linkedin.com/in/harshavardhan-bommalata)
--**Gmail**:[Suggest me ideas]hbommalata@gmail.com
+
+-**Gmail**:[Suggest me ideas](hbommalata@gmail.com)
+
 -**instagram**:[For personal chats](https://www.instagram.com/always_harsha_royal/)
 
 Thank you for your support, and I look forward to connecting with you!
