@@ -206,7 +206,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 ## STAY CONNECTED
 
--**LinkedIn**:[Connect with me professionally](https://www.linkedin.com/in/harshavardhan-bommalata)
+-**LinkedIn**:[Connect me professionally](https://www.linkedin.com/in/harshavardhan-bommalata)
 
 -**Gmail**:[Suggest me ideas](hbommalata@gmail.com)
 
